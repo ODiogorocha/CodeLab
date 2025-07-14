@@ -1,7 +1,7 @@
-package exercicios;
+package exercicios.ex_iniciantes.src.sequencial;
 import java.util.Locale;
 
-public class ex_fix_1 {
+public class ex1 {
     public static void main(String[] args){
         String product1 = "computer";
         String product2 = "office desk";
