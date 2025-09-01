@@ -1,6 +1,7 @@
 # Exercícios de Python - Do Básico ao Avançado
 
 **Autor:** Diogo Rocha 
+
 **Data:** Agosto 2025  
 **Baseado no conteúdo:** W3Schools Python Tutorial
 
